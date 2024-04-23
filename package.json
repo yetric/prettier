@@ -11,5 +11,10 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:yetric/prettier.git"
-  }
+  },
+  "keywords": [
+    "prettier",
+    "config",
+    "yetric"
+  ]
 }
