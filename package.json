@@ -1,0 +1,15 @@
+{
+  "name": "yetric-prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier config for all Yetric products",
+  "main": ".prettierrc.json",
+  "author": "Mattias Hising <mattias@yetric.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "^3.2.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:yetric/prettier.git"
+  }
+}
