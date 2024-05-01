@@ -1,6 +1,6 @@
 {
   "name": "yetric-prettier-config",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "Prettier config for all Yetric products",
   "main": ".prettierrc.json",
   "author": "Mattias Hising <mattias@yetric.com>",

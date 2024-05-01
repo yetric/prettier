@@ -8,5 +8,7 @@
   "printWidth": 120,
   "trailingComma": "es5",
   "endOfLine": "lf",
-  "proseWrap": "preserve"
+  "proseWrap": "preserve",
+  "jsxBracketSameLine": true,
+  "jsxSingleQuote": false
 }
