@@ -9,6 +9,6 @@
   "trailingComma": "es5",
   "endOfLine": "lf",
   "proseWrap": "preserve",
-  "jsxBracketSameLine": true,
+  "bracketSameLine": true,
   "jsxSingleQuote": false
 }
